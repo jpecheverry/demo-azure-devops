@@ -1,0 +1,1 @@
+﻿global using Bakery.BuildingBlocks.Common;

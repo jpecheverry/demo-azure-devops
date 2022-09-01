@@ -10,4 +10,9 @@
     <Folder Include="Interface\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\BuildingBlocks\Bakery.BuildingBlocks.Common\Bakery.BuildingBlocks.Common.csproj" />
+    <ProjectReference Include="..\Bakery.Transaction.Domain\Bakery.Transaction.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
